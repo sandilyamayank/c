@@ -1,0 +1,16 @@
+---- Clone a project ------
+git clone git_url_from_github
+
+
+---- Add changes for commit after making the changes ----
+git add .
+
+------ Commit the changes after add ------
+git commit -m "MESSAGE_FOR_DESCRIPTION"
+
+
+------ Push changes to gihub ----------
+git push 
+
+Git push will ask you to login to github
+

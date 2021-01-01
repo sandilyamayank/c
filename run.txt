@@ -1,0 +1,9 @@
+Compile
+
+1. Go to folder using command - cd <FOLDER_PATH>
+2. Run command - gcc filename.c -o filename
+
+
+Run
+Windows: .\filename
+Unix: ./filename
